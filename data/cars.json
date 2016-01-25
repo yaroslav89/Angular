@@ -1,0 +1,56 @@
+{
+    
+        "BMW": [
+            {"id":1, "logo":"bundles/shop/js/json/cars_img/bmw/logo.png", "model":"M3", "image":"data/cars_img/bmw/m3.jpg", "engine":"V8,4.0L", "year":2009, "price":54850},
+            {"id":2, "model":"M4", "image":"data/cars_img/bmw/m4.jpg", "engine":"Twin Turbo I-6, 3.0 L", "year":2015, "price":64200},
+            {"id":3, "model":"M6", "image":"data/cars_img/bmw/m6.jpg", "engine":"4.4-liter V-8", "year":2014, "price":111200},
+            {"id":4, "model":"X5", "image":"data/cars_img/bmw/x5.jpg", "engine":"Intercooled Turbo I-6, 3.0 L", "year":2014, "price":52800},
+            {"id":5, "model":"M1", "image":"data/cars_img/bmw/m1.jpg", "engine":"3.0L, V6", "year":2012, "price":46135}
+        ]
+    ,
+    
+        "Audi": [
+            {"id":1, "logo":"bundles/shop/js/json/cars_img/audi/logo.png", "model":"A3", "image":"data/cars_img/audi/a3.jpg", "engine":"1.8 TFSI", "year":2014, "price":30900},
+            {"id":2, "model":"RS4", "image":"data/cars_img/audi/rs4.jpg", "engine":"4.2-litre V8", "year":2012, "price":54925},
+            {"id":3, "model":"RS6", "image":"data/cars_img/audi/rs6.jpg", "engine":"4.0L", "year":2015, "price":229000},
+            {"id":4, "model":"Q7", "image":"data/cars_img/audi/q7.jpg", "engine":"turbo-diesel V-6", "year":"2015", "price":49225},
+            {"id":5, "model":"R8", "image":"data/cars_img/audi/r8.jpg", "engine":"5.2-liter V-10", "year":2014, "price":117150}
+        ]
+    ,
+    
+        "Ford": [
+            {"id":1, "logo":"bundles/shop/js/json/cars_img/ford/logo.png", "model":"Focus RS", "image":"data/cars_img/ford/focus.jpg", "engine":" 2.3-litre Ecoboost", "year":2014, "price":30000},
+            {"id":2, "model":"Mustang", "image":"data/cars_img/ford/ms_new.png", "engine":"5.0L V8", "year":2015, "price":54990},
+            {"id":3, "model":"GT 40", "image":"data/cars_img/ford/gt.jpg", "engine":"4.7 litre V8", "year":2010, "price":100000},
+            {"id":4, "model":"Fiesta", "image":"data/cars_img/ford/fiesta.jpg", "engine":"1.6-litre", "year":2014, "price":15000},
+            {"id":5, "model":"Mustang 1969", "image":"data/cars_img/ford/ms1969.jpg", "engine":"5.8L", "year":1969, "price":35000}
+        ]
+    ,
+    
+        "Mercedes": [
+            {"id":1, "logo":"bundles/shop/js/json/cars_img/mercedes/logo.png", "model":"SLS AMG", "image":"data/cars_img/mercedes/sls.jpg", "engine":"6.2L V8", "year":2015, "price":220000},
+            {"id":2, "model":"C63 AMG", "image":"data/cars_img/mercedes/c63.jpg", "engine":"6.2L V8", "year":"2015", "price":64000},
+            {"id":3, "model":"CLS 63", "image":"data/cars_img/mercedes/cls.jpg", "engine":"5.5L V8", "year":2015, "price":108900},
+            {"id":4, "model":"SL", "image":"data/cars_img/mercedes/sl400.jpg", "engine":"3.0L V6", "year":2014, "price":84000},
+            {"id":5, "model":"S65", "image":"data/cars_img/mercedes/s65.jpg", "engine":"twin-turbo V12", "year":2015, "price":200000}
+        ]
+    ,
+    
+        "Volkswagen": [
+            {"id":1, "logo":"bundles/shop/js/json/cars_img/volkswagen/logo.png", "model":"Polo R", "image":"data/cars_img/volkswagen/polo.jpg", "engine":"1.6L Turbo", "year":2013, "price":20000},
+            {"id":2, "model":"GTI", "image":"data/cars_img/volkswagen/gti.jpg", "engine":"2.0L Turbo", "year":2014, "price":25000},
+            {"id":3, "model":"CC", "image":"data/cars_img/volkswagen/cc.jpg", "engine":"3.6L Turbo", "year":2014, "price":33800},
+            {"id":4, "model":"Passat", "image":"data/cars_img/volkswagen/ps.jpg", "engine":"2.5L", "year":2013, "price":22000},
+            {"id":5, "model":"Touareg", "image":"data/cars_img/volkswagen/trg.jpg", "engine":"3.0L V6", "year":2013, "price":43500}
+        ]
+    ,
+    
+        "Renault": [
+            {"id":1, "logo":"bundles/shop/js/json/cars_img/renault/logo.png", "model":"Clio RS", "image":"data/cars_img/renault/clio.jpg", "engine":"1.6L", "year":2015, "price":16000},
+            {"id":2, "model":"Megane 265 RS", "image":"data/cars_img/renault/meganers.jpg", "engine":"2.0L", "year":2014, "price":25000},
+            {"id":3, "model":"Laguna", "image":"data/cars_img/renault/laguna.jpg", "engine":"3.5 V6", "year":2013, "price":22000},
+            {"id":4, "model":"Duster", "image":"data/cars_img/renault/duster.jpg", "engine":"1.6L", "year":2015, "price":18900},
+            {"id":5, "model":"Twingo", "image":"data/cars_img/renault/twingo.jpg", "engine":"1.2L turbo", "year":2015, "price":13500}
+        ]
+    
+}

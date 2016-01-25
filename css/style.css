@@ -1,0 +1,186 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: url(img/bg.jpg) no-repeat;
+  background-size: cover; }
+
+nav {
+  width: 100%;
+  background: rgba(0, 0, 0, 0.7);
+  height: 60px;
+  display: table; }
+
+a {
+  text-decoration: none;
+  color: white;
+  margin-left: 2%;
+  float: left;
+  vertical-align: middle;
+  line-height: 60px;
+  text-transform: uppercase;
+  font-weight: bold;
+  opacity: 0.8; }
+
+li {
+  list-style-type: none; }
+
+.task-info {
+  position: absolute;
+  height: 60px;
+  width: 100%;
+  top: 0;
+  left: 0;
+  background: white;
+  display: none;
+  text-align: center;
+  z-index: 999; }
+  .task-info p {
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold; }
+
+.cart {
+  float: left;
+  margin: 15px 0 0 2%; }
+  .cart a {
+    width: 32px;
+    height: 32px;
+    display: block;
+    background: url(img/garage.png) no-repeat;
+    opacity: 0.8; }
+
+.gallery-container {
+  width: 90%;
+  margin: 5% auto; }
+  .gallery-container ul {
+    display: inline-table;
+    margin: 0 auto;
+    padding: 0; }
+    .gallery-container ul li {
+      width: 400px;
+      float: left;
+      margin: 0 1% 2% 0;
+      border: 5px solid white;
+      background: white;
+      box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+      border-radius: 5px;
+      -moz-border-radius: 5px;
+      -webkit-border-radius: 5px; }
+      .gallery-container ul li .img-container {
+        width: 100%;
+        position: relative;
+        height: 250px;
+        float: left; }
+        .gallery-container ul li .img-container img {
+          width: 100%;
+          height: 100%; }
+      .gallery-container ul li .info {
+        float: left;
+        margin: 2% 0 0 32%; }
+        .gallery-container ul li .info .add-to-cart {
+          background: #64DD17;
+          color: black;
+          text-transform: uppercase;
+          font-weight: bold;
+          border: none;
+          cursor: pointer;
+          padding: 10px;
+          width: 100px;
+          border-radius: 20px;
+          -moz-border-radius: 20px;
+          -webkit-border-radius: 20px;
+          outline: none; }
+
+.engine, .model, .date, .price {
+  display: block;
+  width: 24px;
+  height: 24px;
+  background: url(img/engine.png) no-repeat;
+  float: left;
+  padding-right: 5px; }
+
+.model {
+  background: url(img/model.png) no-repeat; }
+
+.date {
+  background: url(img/date.png) no-repeat; }
+
+.price {
+  background: url(img/price.png) no-repeat; }
+
+.options {
+  width: 100%;
+  margin: 0 auto;
+  height: 60px;
+  display: table;
+  background: rgba(255, 255, 255, 0.6); }
+  .options .sorting, .options .manufacture {
+    float: left;
+    color: black;
+    line-height: 60px;
+    margin-left: 2%;
+    text-transform: uppercase;
+    font-weight: bold; }
+
+.cart-options {
+  width: 100%;
+  height: 60px;
+  background: rgba(255, 255, 255, 0.6); }
+  .cart-options .cart-price {
+    margin-left: 2%;
+    float: left; }
+    .cart-options .cart-price h3 {
+      margin: 0;
+      line-height: 60px;
+      color: black; }
+  .cart-options .clear {
+    float: right;
+    margin-right: 2%;
+    color: white;
+    background: #FF1744;
+    padding: 0 2%; }
+
+.cart-items {
+  width: 90%;
+  margin: 5% auto; }
+  .cart-items ul {
+    margin: 0;
+    padding: 0; }
+    .cart-items ul .cart-item {
+      width: 680px;
+      float: left;
+      margin: 0 0 30px 1%;
+      background: #F5F5F5;
+      opacity: 0.8; }
+      .cart-items ul .cart-item:hover {
+        opacity: 1; }
+      .cart-items ul .cart-item .item-container {
+        position: relative; }
+        .cart-items ul .cart-item .item-container .item-rem {
+          position: absolute;
+          top: 0;
+          right: 0%;
+          border: none;
+          background: #E91E63;
+          color: white;
+          font-weight: bold;
+          cursor: pointer;
+          outline: none; }
+        .cart-items ul .cart-item .item-container .item-img {
+          float: left;
+          width: 40%;
+          height: 200px; }
+          .cart-items ul .cart-item .item-container .item-img img {
+            width: 100%;
+            height: 100%; }
+        .cart-items ul .cart-item .item-container .item-desc {
+          float: left;
+          width: 60%;
+          height: 200px; }
+          .cart-items ul .cart-item .item-container .item-desc ul {
+            margin: 20px 0 0 17%; }
+            .cart-items ul .cart-item .item-container .item-desc ul li {
+              display: table;
+              margin-bottom: 20px; }
+
+/*# sourceMappingURL=style.css.map */

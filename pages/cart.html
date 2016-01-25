@@ -1,0 +1,26 @@
+<div class="cart-options">
+	<div class="cart-price">
+		<h3>Total price: {{totalPrice | currency:"$":0}}</h3>
+	</div>
+	<a href="javascript:;" class="clear" ng-click="emptyCart()">Clear cart</a>
+</div>
+<div class="cart-items">
+	<ul>
+		<li class="cart-item" ng-repeat="dataset in cartData">
+			<div class="item-container">
+				<button class="item-rem" ng-click="del(dataset.model)">X</button>
+				<div class="item-img">
+					<img src="{{dataset.image}}" alt="{{dataset.model}}">
+				</div>
+				<div class="item-desc">
+					<ul>
+						<li><span class="model"></span><b>Model:</b> {{dataset.model}}</li>
+						<li><span class="engine"></span><b>Engine:</b> {{dataset.engine}}</li>
+						<li><span class="date"></span><b>Year:</b> {{dataset.year}}</li>
+						<li><span class="price"></span><b>Price:</b> {{dataset.price | currency:"$":0}}</li>
+					</ul>
+				</div>
+			</div>
+		</li>
+	</ul>
+</div>

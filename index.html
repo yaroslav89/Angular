@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html ng-app="galleryApp">
+
+<head>
+    <meta charset="utf-8">
+    <title>Angular App</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+	<header>
+		<nav>
+			<a href="#/">Home</a>
+			<div class="cart">
+				<a href="#/cart"></a>
+			</div>
+		</nav>
+		<div class="task-info">
+			<p></p>
+		</div>
+	</header>
+	
+	<main id="main" ng-view></main>
+
+
+<script src="js/jquery-2.1.4.min.js" type="text/javascript"></script>
+<script src="js/angular.min.js" type="text/javascript"></script>
+<script src="js/angular-route.min.js" type="text/javascript"></script>
+<script src="js/app.js" type="text/javascript"></script>
+</body>
+
+</html>

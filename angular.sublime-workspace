@@ -1,0 +1,1161 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"angular",
+				"angular.element"
+			],
+			[
+				"$loction",
+				"$locationProvider	AngularJS"
+			],
+			[
+				"$location",
+				"$locationProvider	AngularJS(DI)"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"sho",
+				"showMessage"
+			],
+			[
+				"sh",
+				"shopCtrl"
+			],
+			[
+				"angula",
+				"angular.element"
+			],
+			[
+				"for",
+				"angular.forEach"
+			],
+			[
+				"cars",
+				"carsIncart"
+			],
+			[
+				"ele",
+				"angular.element"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"padi",
+				"padding-right"
+			],
+			[
+				"$route",
+				"$routeParams	AngularJS"
+			],
+			[
+				"gallery",
+				"galleryController"
+			],
+			[
+				"$rout",
+				"$routeProvider	AngularJS(DI)"
+			],
+			[
+				"in",
+				"inline-table"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"pa",
+				"padding-left"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"$rou",
+				"$routeProvider	AngularJS"
+			],
+			[
+				"$ro",
+				"$routeParams	AngularJS"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"scrol",
+				"scroll-top"
+			],
+			[
+				"scro",
+				"scroll-top"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"scroll",
+				"scroll-top"
+			],
+			[
+				"pop",
+				"popup_container"
+			],
+			[
+				"popup_con",
+				"popup_content"
+			],
+			[
+				"popup_cont",
+				"popup_container"
+			],
+			[
+				"img",
+				"img_url"
+			],
+			[
+				"fa",
+				"fadeIn"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"borde",
+				"border"
+			],
+			[
+				"wd",
+				"width"
+			],
+			[
+				"scr",
+				"scroll-top"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"ser",
+				"service-content"
+			],
+			[
+				"sc",
+				"scroll"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"scroA",
+				"scrollAnimation"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"backgr",
+				"background-size"
+			],
+			[
+				"po",
+				"positionTop"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"load",
+				"loading"
+			],
+			[
+				"men",
+				"menuScroll"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"z-",
+				"z-index"
+			],
+			[
+				"mag",
+				"margin-top"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"menu",
+				"menu-wrapper"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"a",
+				"addClass"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"inli",
+				"inline-table"
+			],
+			[
+				"with",
+				"min-width"
+			],
+			[
+				"bloc",
+				"block-title"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"s",
+				"scroll"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"grid",
+				"grid-element"
+			],
+			[
+				"gr",
+				"grid"
+			],
+			[
+				"gri",
+				"grid-container"
+			],
+			[
+				"fly",
+				"flyOutMenuCarousel"
+			],
+			[
+				"carouse",
+				"carousel_item"
+			],
+			[
+				"ini",
+				"initializeEvents"
+			],
+			[
+				"fuc",
+				"function"
+			],
+			[
+				"is",
+				"iscontentasset"
+			],
+			[
+				"sub",
+				"subCat"
+			],
+			[
+				"level",
+				"level-2"
+			],
+			[
+				"leve",
+				"level-2"
+			],
+			[
+				"lve",
+				"level-1"
+			],
+			[
+				"lev",
+				"level-2"
+			],
+			[
+				"l",
+				"level-2"
+			],
+			[
+				"i",
+				"initializeEvents"
+			],
+			[
+				"to",
+				"toggle-status"
+			],
+			[
+				"brder",
+				"border-radius"
+			],
+			[
+				"togl",
+				"toggle-status-open"
+			],
+			[
+				"toggl",
+				"toggle-status"
+			],
+			[
+				"price",
+				"priceMax"
+			],
+			[
+				"val",
+				"valMin"
+			],
+			[
+				"isp",
+				"isprint"
+			],
+			[
+				"cont",
+				"controlRight"
+			],
+			[
+				"lo",
+				"loadPriceProducts"
+			],
+			[
+				"va",
+				"valMin"
+			],
+			[
+				"slide",
+				"slideBlock"
+			],
+			[
+				"Val",
+				"valMin"
+			],
+			[
+				"pri",
+				"priceMin"
+			],
+			[
+				"pr",
+				"priceMin"
+			],
+			[
+				"get",
+				"getValueFrom"
+			],
+			[
+				"Ref",
+				"RefinementDefinition"
+			],
+			[
+				"valm",
+				"valmin"
+			],
+			[
+				"control",
+				"controlRight"
+			],
+			[
+				"con",
+				"controlLeft"
+			],
+			[
+				"page",
+				"pagebar"
+			],
+			[
+				"contro",
+				"controlRight"
+			],
+			[
+				"slo",
+				"slotHeight"
+			],
+			[
+				"cat",
+				"cat-info"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"so",
+				"sort_id"
+			],
+			[
+				"pagin",
+				"pagingmodel"
+			],
+			[
+				"getSo",
+				"getSortingRule"
+			],
+			[
+				"tile",
+				"tiles-container"
+			],
+			[
+				"extra",
+				"extra-height"
+			],
+			[
+				"show",
+				"showcompare"
+			],
+			[
+				"max",
+				"maxPage"
+			],
+			[
+				"ran",
+				"rangeEnd"
+			],
+			[
+				"ex",
+				"ex_height"
+			],
+			[
+				"sort",
+				"sort-rule"
+			],
+			[
+				"sortin",
+				"sortingRuleID"
+			],
+			[
+				"sorting",
+				"sortingRule"
+			],
+			[
+				"Query",
+				"getQueryString"
+			],
+			[
+				"list-sty",
+				"list-style-type"
+			],
+			[
+				"paddi",
+				"padding-right"
+			],
+			[
+				"op",
+				"opacity"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/style.scss",
+			"settings":
+			{
+				"buffer_size": 2624,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/cart.html",
+			"settings":
+			{
+				"buffer_size": 21,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/app.js",
+			"settings":
+			{
+				"buffer_size": 2663,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pages/shop.html",
+			"settings":
+			{
+				"buffer_size": 1175,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 744,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "pa",
+		"selected_items":
+		[
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"paca",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 538.0
+	},
+	"console":
+	{
+		"height": 143.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/Slavik/web/Angular",
+		"/Users/Slavik/web/Angular/css",
+		"/Users/Slavik/web/Angular/data"
+	],
+	"file_history":
+	[
+		"/Users/Slavik/web/Angular/.htaccess",
+		"/Users/Slavik/web/Angular/pages/gallery.html",
+		"/Users/Slavik/web/Angular/pages/cart.html",
+		"/Users/Slavik/web/Angular/data/cars.json",
+		"/Users/Slavik/web/Angular/pages/main.html",
+		"/Users/Slavik/web/Angular/data/data.json",
+		"/Users/Slavik/web/Angular/index.html",
+		"/Users/Slavik/web/Angular/css/style.css",
+		"/Users/Slavik/web/OSF/Apartments/js/json/apartments.json",
+		"/Users/Slavik/data.sql",
+		"/Users/Slavik/web/tn-event-company/resources/views/index.blade.php",
+		"/Users/Slavik/web/tn-event-company/resources/assets/sass/homepage.scss",
+		"/Users/Slavik/web/tn-event-company/resources/views/layouts/components/footer.blade.php",
+		"/Users/Slavik/web/tn-event-company/resources/views/layouts/components/header.blade.php",
+		"/Users/Slavik/web/tn-event-company/resources/assets/sass/footer.scss",
+		"/Users/Slavik/web/tn-event-company/resources/assets/sass/guide.scss",
+		"/Users/Slavik/Downloads/fancyBox/fancyBox/demo/index.html",
+		"/Users/Slavik/Downloads/fancyBox/fancyBox/demo/ajax.txt",
+		"/Users/Slavik/web/tn-event-company/resources/views/layouts/homepage.blade.php",
+		"/Users/Slavik/web/tn-event-company/resources/assets/sass/header.scss",
+		"/Users/Slavik/web/tn-event-company/gulpfile.js",
+		"/Users/Slavik/web/tn-event-company/public/js/app.js",
+		"/Users/Slavik/web/tn-event-company/resources/assets/sass/popup.scss",
+		"/Users/Slavik/web/tn-event-company/resources/assets/sass/globalelements.scss",
+		"/Users/Slavik/web/tn-event-company/public/js/magnific.min.js",
+		"/Users/Slavik/web/tn-event-company/resources/assets/sass/app.scss",
+		"/Users/Slavik/web/tn-event-company/resources/assets/sass/normalize.scss",
+		"/Users/Slavik/web/tn-event-company/resources/assets/sass/font.scss",
+		"/Users/Slavik/web/tn-event-company/.env",
+		"/Users/Slavik/work/Training/Angular/app.js",
+		"/Users/Slavik/work/Training/Angular/index.html",
+		"/Users/Slavik/table2.sql",
+		"/Users/Slavik/web/tn-event-company/public/js/popup.min.js",
+		"/Users/Slavik/web/tn-event-company/public/.htaccess",
+		"/Users/Slavik/web/tn-event-company/.gitignore",
+		"/Users/Slavik/web/tn-event-company/public/js/mpopup.js",
+		"/Users/Slavik/tn_event.sql",
+		"/Users/Slavik/tn-event.sql",
+		"/Users/Slavik/Downloads/tn-event/tn-event/index.html",
+		"/Users/Slavik/Downloads/tn-event/tn-event/css/header.scss",
+		"/Users/Slavik/Downloads/tn-event/tn-event/js/scroll.js",
+		"/Users/Slavik/web/tn-event-company/app/Http/Controllers/PagesController.php",
+		"/Users/Slavik/web/tn-event-company/resources/views/layouts/components/htmlhead.blade.php",
+		"/Users/Slavik/Downloads/tn-event/tn-event/css/font.scss",
+		"/Users/Slavik/web/tn-event-company/resources/views/layouts/components/globalmenu.blade.php",
+		"/Users/Slavik/work/Lancome/BeautyMag/app_beautymag_us/cartridge/scss/default/settings/_style_guide.scss",
+		"/Users/Slavik/work/Lancome/BeautyMag/app_beautymag_us/cartridge/scss/default/settings/_mixins.scss",
+		"/Users/Slavik/work/Lancome/BeautyMag/app_beautymag_us/cartridge/scss/default/settings/_normalize.scss",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/templates/default/slots/content/homepage/home-bottom-center.isml",
+		"/Users/Slavik/work/Training/Cartriges/app_swatch/cartridge/scss/default/_product_page.scss",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/js/pages/product/recommendations.js",
+		"/Users/Slavik/work/Training/Cartriges/app_swatch/cartridge/templates/default/product/components/recommendations.isml",
+		"/Users/Slavik/work/Training/Cartriges/app_swatch/cartridge/templates/default/product/productmaininfo.isml",
+		"/Users/Slavik/work/Training/Cartriges/app_swatch/cartridge/templates/default/product/productcontent.isml",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/js/flyout.js",
+		"/Users/Slavik/work/Training/Cartriges/app_swatch/cartridge/scss/default/_guide.scss",
+		"/Users/Slavik/work/Training/Cartriges/app_swatch/cartridge/templates/default/product/producttopcontent.isml",
+		"/Users/Slavik/web/Landing/config/database.php",
+		"/Users/Slavik/web/Landing/config/app.php",
+		"/Users/Slavik/web/lumen/public/index.php",
+		"/Users/Slavik/web/Landing/resources/views/welcome.blade.php",
+		"/Users/Slavik/web/Landing/gulpfile.js",
+		"/Users/Slavik/web/Landing/database/seeds/DatabaseSeeder.php",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/templates/default/product/components/recommendations.isml",
+		"/Users/Slavik/web/Landing/components/footer.php",
+		"/Users/Slavik/Downloads/Lesson_8/Lesson 8/index.html",
+		"/Users/Slavik/web/Landing/components/header.php",
+		"/Users/Slavik/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/templates/default/search/productnav.isml",
+		"/Users/Slavik/work/Training/Cartriges/app_swatch/cartridge/templates/default/product/pt_productdetails.isml",
+		"/Users/Slavik/Downloads/swatch/templates/default/product/components/group.isml",
+		"/Users/Slavik/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/scss/default/_base_elements.scss",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/scss/default/_footer.scss",
+		"/Users/Slavik/work/Training/Cartriges/app_swatch/cartridge/templates/default/product/productdetail.isml",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/scss/default/_breadcrumbs.scss",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/templates/default/components/footer/footer.isml",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/scss/default/header/_header.scss",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/scss/default/header/_nav.scss",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/scss/default/_homepage.scss",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/templates/default/slots/content/colections.isml",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/templates/default/components/header/htmlhead.isml",
+		"/Users/Slavik/work/Training/Cartriges/app_swatch/cartridge/scss/default/swatch.scss",
+		"/Users/Slavik/work/Training/Cartriges/app_swatch/cartridge/templates/default/product/productcontent2.isml",
+		"/Users/Slavik/work/Training/Cartriges/app_swatch/cartridge/scss/default	/swatch.scss",
+		"/Users/Slavik/work/Training/Cartriges/app_swatch/cartridge/scss/default	/_guide.scss",
+		"/Users/Slavik/work/Training/Cartriges/app_swatch/cartridge/scss/default	/_product_page.scss",
+		"/Users/Slavik/work/Training/Cartriges/app_swatch/cartridge/static/default/css/swatch.css",
+		"/Users/Slavik/work/Lancome/BeautyMag/app_beautymag_us/cartridge/scss/default/style.scss",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/scss/default/style.scss",
+		"/Users/Slavik/web/ghost-0.7.1/package.json",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/js/grid.js",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/js/pricebar.js",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/js/product-tile.js",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/scss/default/_grid.scss",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/templates/default/product/producttile.isml",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/templates/default/slots/product/grid.isml",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/templates/default/components/header/categoryflyout.isml",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/templates/default/components/header/headercustomerinfo.isml",
+		"/Users/Slavik/Downloads/threecolumnmainhero.isml",
+		"/Users/Slavik/Downloads/getMultiColumnEditorial.ds",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/templates/default/search/productgrid.isml",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/templates/default/components/header/header.isml",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/templates/default/search/components/productsearchrefinebar.isml",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/js/pages/search.js",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/js/app.js",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/scss/default/_minicart.scss",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/scss/default/header/_menu_utility.scss",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/templates/default/checkout/cart/minicart.isml",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/templates/default/components/header/headermenu.isml",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/scss/default/_secondary_region_elements.scss",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/scss/default/_search_results_grid_layout.scss",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/templates/resources/search.properties",
+		"/Users/Slavik/web/task8/homework8/main.js",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/templates/default/rendering/category/categoryproducthits.isml",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/templates/default/slots/category/cat-info.isml",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/scss/default/_page_layouts.scss",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/templates/default/search/components/productsortingoptions.isml",
+		"/Users/Slavik/Downloads/L8/L8/homework8/dist/js/npm.js",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/scss/default/_product_detail_page.scss",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/templates/default/search/components/folderrefinementvalues.isml",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/templates/default/search/pt_productsearchresult_content.isml",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/scss/default/_product_tiles.scss",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/templates/default/components/pagingbar.isml",
+		"/Users/Slavik/web/Demandware/FrontedTraining/New Workspace/DemandwareServer/storefront/cartridge/templates/default/components/pagingbar.isml",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/scss/default/_slots.scss",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/templates/default/components/paginginformation.isml",
+		"/Users/Slavik/work/Training/Cartriges/storefront/cartridge/scripts/util/Resource.ds"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			"/Users/Slavik/web/tn-event-company"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"value",
+			"16px",
+			"content",
+			"2px",
+			"m3",
+			"yellow",
+			"red",
+			"40px",
+			"50",
+			"7px",
+			"90",
+			"show",
+			"npm-debug",
+			"about",
+			"1000",
+			"5px",
+			"30",
+			"300px",
+			"200px",
+			"0",
+			"82",
+			"30px",
+			"0",
+			"10px",
+			"5px",
+			"2px",
+			"400px",
+			"span",
+			"2048px",
+			"in",
+			"3s",
+			"ease",
+			"2px",
+			"4px",
+			"2px",
+			"10px",
+			"easeOutCirc",
+			"global",
+			"css",
+			"menu",
+			"<?php foreach ($text as $value) {\n        			echo $value->id;\n        			echo $value->text;\n        		} ?>",
+			"{\n",
+			"linear",
+			"0.5",
+			"ease-out",
+			"idx",
+			"container",
+			"mini",
+			"refineme",
+			"expan",
+			"refineme",
+			"load",
+			"ajax",
+			"container",
+			"refineme",
+			"refinement",
+			"0",
+			"search-re",
+			"refinement",
+			"margin",
+			"grid-tile",
+			"extra",
+			"idx",
+			"syncHeight",
+			"cat-in",
+			"option",
+			"h3",
+			"quickview",
+			"product-tile",
+			"product-",
+			"compare",
+			"link",
+			"product-name",
+			"search-result-opt",
+			"isin",
+			">\n",
+			"ul",
+			"pdp-mai",
+			"product-variat",
+			"select",
+			"product-options",
+			"select",
+			"product-pri",
+			"inven",
+			"inventory",
+			"attribute",
+			";\n",
+			"product-main",
+			"next",
+			"add-to-cart",
+			"add-to",
+			"targetuser",
+			"pdp-main",
+			"test",
+			"pdp-main",
+			".inven",
+			".rating",
+			"in-stock",
+			"pdp-main",
+			"product-",
+			"product-op",
+			"isinc",
+			"availability-web ",
+			"5px",
+			"success",
+			"p",
+			"attribute",
+			"product-col",
+			"form",
+			"product-main",
+			"cart",
+			"add-to",
+			"addtocart",
+			"buttonTitle",
+			"${buttonTitle}",
+			"add-to-car",
+			"product-na",
+			"pdp-main",
+			"product-next",
+			"select",
+			"div",
+			"font-size",
+			"15px",
+			"gray",
+			"linkhover",
+			"_positionIHCarousel",
+			"_positionIHCarousel()",
+			"_positionIHCarousel();"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/style.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2624,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								704,
+								704
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 681.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "pages/cart.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21,
+								21
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2663,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								883,
+								883
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 490.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "pages/shop.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1175,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1120,
+								1120
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 744,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								402,
+								402
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "angular.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
